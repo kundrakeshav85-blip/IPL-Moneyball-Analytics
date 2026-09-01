@@ -140,3 +140,7 @@ where it matters.
 
 MIT — see [LICENSE](LICENSE). IPL data belongs to its respective sources;
 Cricsheet data is CC BY 4.0.
+## Contribution
+
+**Keshav Kundra**  
+📧 kundrakkeshav85@gmail.com
